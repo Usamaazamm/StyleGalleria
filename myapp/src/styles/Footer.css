@@ -1,0 +1,22 @@
+.foot {
+    height: 20vh;
+    background-color: rgb(20, 20, 20);
+    color: rgb(247, 240, 240);
+    margin: auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.foote a {
+    padding: 2px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+    color: rgb(208, 220, 231);
+    border-bottom: 1px solid grey;
+}
